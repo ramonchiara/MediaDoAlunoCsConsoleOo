@@ -4,3 +4,8 @@ C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradi
 C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\MediaAlunoConsoleOo\MediaAlunoConsoleOo\obj\Debug\MediaAlunoConsoleOo.csprojResolveAssemblyReference.cache
 C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\MediaAlunoConsoleOo\MediaAlunoConsoleOo\obj\Debug\MediaAlunoConsoleOo.exe
 C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\MediaAlunoConsoleOo\MediaAlunoConsoleOo\obj\Debug\MediaAlunoConsoleOo.pdb
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Media do Aluno\MediaAlunoConsoleOo\MediaAlunoConsoleOo\bin\Debug\MediaAlunoConsoleOo.exe.config
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Media do Aluno\MediaAlunoConsoleOo\MediaAlunoConsoleOo\obj\Debug\MediaAlunoConsoleOo.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Media do Aluno\MediaAlunoConsoleOo\MediaAlunoConsoleOo\obj\Debug\MediaAlunoConsoleOo.pdb
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Media do Aluno\MediaAlunoConsoleOo\MediaAlunoConsoleOo\bin\Debug\MediaAlunoConsoleOo.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Media do Aluno\MediaAlunoConsoleOo\MediaAlunoConsoleOo\bin\Debug\MediaAlunoConsoleOo.pdb
