@@ -22,6 +22,10 @@ namespace MediaAlunoConsoleOoParte2
             SetP2(p2);
         }
 
+        public Aluno(string nome) : this(nome, 0, 0)
+        {
+        }
+
         // Métodos Modificadores
 
         public void SetNome(string nome)

@@ -21,7 +21,9 @@ namespace MediaAlunoConsoleOoParte2
             double p2 = double.Parse(Console.ReadLine());
 
             // Processamento:
-            Aluno aluno = new Aluno(nome, p1, p2);
+            Aluno aluno = new Aluno(nome);
+            aluno.SetP1(p1);
+            aluno.SetP2(p2);
 
             double media = aluno.CalculaMedia();
             bool passou = aluno.VocePassou();
